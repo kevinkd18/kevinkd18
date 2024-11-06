@@ -11,9 +11,8 @@
 
 - 🌱 I’m currently learning **LLM, (NLP,ML,DL)**
 
-- 👨‍💻 All of my projects are available at Github [@kevinkd18](@kevinkd18)
-
-- 📝 I regularly write articles on [Instagram - 🔗 https://www.instagram.com/withkevinnn](Instagram - 🔗 https://www.instagram.com/withkevinnn)
+- 👨‍💻 All of my projects are available at Github [@kevinkd18].
+- 📝 I regularly write articles on(Instagram - 🔗 https://www.instagram.com/withkevinnn)
 
 - 📫 How to reach me **Codewithkevin24gmail.com**
 
